@@ -1,0 +1,19 @@
+name: Generate Profile Summary Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # tous les jours à minuit UTC
+  workflow_dispatch:      # permet de lancer manuellement
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate profile summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        with:
+          USERNAME: derrickjannato
+          TEMPLATE: classic
+          THEME: github_dark

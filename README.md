@@ -41,8 +41,9 @@ Harvard CS50x · IBM (Python for Data Science) · freeCodeCamp (Scientific Compu
 
 ### 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=derrickjannato&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derrickjannato&layout=compact&theme=radical&hide_border=true)
+![](https://raw.githubusercontent.com/derrickjannato/derrickjannato/profile-summary/profile-summary-card-output/0-profile-details.svg)
+![](https://raw.githubusercontent.com/derrickjannato/derrickjannato/profile-summary/profile-summary-card-output/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/derrickjannato/derrickjannato/profile-summary/profile-summary-card-output/3-stats.svg)
 
 ![Streak](https://streak-stats.demolab.com/?user=derrickjannato&theme=radical&hide_border=true)
 

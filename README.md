@@ -57,5 +57,10 @@ Harvard CS50x · IBM (Python for Data Science) · freeCodeCamp (Scientific Compu
 </p>
 
 <p align="center">
+
+![](https://raw.githubusercontent.com/derrickjannato/derrickjannato/profile-summary/profile-summary-card-output/3-stats.svg?v=2)
+
+
+
   <i>Always open to a chat about data, ML, or interesting collaborations 🚀</i>
 </p>

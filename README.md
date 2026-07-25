@@ -46,8 +46,6 @@ Harvard CS50x · IBM (Python for Data Science) · freeCodeCamp (Scientific Compu
 ![](https://raw.githubusercontent.com/derrickjannato/derrickjannato/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)
 ![](https://raw.githubusercontent.com/derrickjannato/derrickjannato/main/profile-summary-card-output/github_dark/3-stats.svg)
 
-![Streak](https://streak-stats.demolab.com/?user=derrickjannato&theme=radical&hide_border=true)
-
 ---
 
 <p align="center">
